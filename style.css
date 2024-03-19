@@ -1255,11 +1255,10 @@ body {
     list-style: none;
     position: relative;
     padding: 12px 20px;
-    background: rgb(2,0,36);
-background: radial-gradient(circle, rgba(2,0,36,1) 9%, rgba(46,44,54,0.42200630252100846) 50%, rgba(122,116,124,1) 77%, rgba(73,87,91,1) 100%);
-  background-size: 400% 400%;
+   background-color: #111;
   animation: gradient 10s ease infinite;
 }
+  
     
 
 .logo img {width: 40px;}
